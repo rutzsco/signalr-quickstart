@@ -8,7 +8,7 @@ Also, WebSockets are typically the preferred technique to support real-time cont
 
 ![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-overview/managed-signalr-service.png "Managed SignalR")
 
-## Reference
+### Reference
 * https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-scale-aspnet-core#why-not-deploy-signalr-myself
 
 # Multiple instances
