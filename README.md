@@ -45,4 +45,4 @@ One of the key reasons to use the Azure SignalR Service is simplicity - With Azu
 
 * 1,000 - Concurrent Connections per Unit 
 * 1,000,000 - Messages / Unit / Day
-* Messages larger than 2 KB are counted as multiple messages of 2 KB each.
+* Messages larger than 2 KB(kilobytes) are counted as multiple messages of 2 KB each.
