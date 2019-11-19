@@ -31,3 +31,4 @@ Also, WebSockets are typically the preferred technique to support real-time cont
 # Benchmark and Performance Testing
 
 * https://github.com/Azure/azure-signalr-bench
+* https://github.com/aspnet/AspNetCore/tree/master/src/SignalR/perf/benchmarkapps/Crankier
