@@ -19,3 +19,7 @@ Also, WebSockets are typically the preferred technique to support real-time cont
 
 * https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-multi-instances
 * https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery
+
+# Benchmark and Performance Testing
+
+* https://github.com/Azure/azure-signalr-bench
