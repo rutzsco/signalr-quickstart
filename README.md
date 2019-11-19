@@ -14,11 +14,11 @@ One of the key reasons to use the Azure SignalR Service is simplicity - With Azu
 
 #### Managing Backplane with Redis
 
-![alt text](https://docs.microsoft.com/en-us/aspnet/core/signalr/scale/_static/azure-signalr-service-multiple-connections.png?view=aspnetcore-3.0 "Managed SignalR")
+![alt text](https://docs.microsoft.com/en-us/aspnet/core/signalr/scale/_static/redis-backplane.png?view=aspnetcore-3.0 "Managed SignalR")
 
 #### Azure SignalR 
 
-![alt text](https://docs.microsoft.com/en-us/aspnet/core/signalr/scale/_static/redis-backplane.png?view=aspnetcore-3.0 "Managed SignalR")
+![alt text](https://docs.microsoft.com/en-us/aspnet/core/signalr/scale/_static/azure-signalr-service-multiple-connections.png?view=aspnetcore-3.0 "Managed SignalR")
 
 ### Reference
 * https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-scale-aspnet-core#why-not-deploy-signalr-myself
