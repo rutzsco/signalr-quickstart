@@ -1,6 +1,6 @@
 # Why Azure SignalR Service
 
-Handle large-scale client connections:
+#### Handle large-scale client connections:
 
 SignalR Service is designed for large-scale real-time applications. SignalR Service allows multiple instances to work together to scale to millions of client connections. The service also supports multiple global regions for sharding, high availability, or disaster recovery purposes.
 
