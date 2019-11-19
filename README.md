@@ -36,3 +36,7 @@ One of the key reasons to use the Azure SignalR Service is simplicity - With Azu
 
 * https://github.com/Azure/azure-signalr-bench
 * https://github.com/aspnet/AspNetCore/tree/master/src/SignalR/perf/benchmarkapps/Crankier
+
+# Performance 
+
+* https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-performance
