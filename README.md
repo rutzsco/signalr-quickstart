@@ -13,7 +13,7 @@ Also, WebSockets are typically the preferred technique to support real-time cont
 
 # Multiple instances and Disaster Recovery
 
-![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/topology.png "")
+![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/before-failover.png "")
 ![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/after-failover.png "")
 ![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/after-recover.png "")
 
