@@ -11,6 +11,11 @@ Also, WebSockets are typically the preferred technique to support real-time cont
 ### Reference
 * https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-scale-aspnet-core#why-not-deploy-signalr-myself
 
-# Multiple instances
+# Multiple instances and Disaster Recovery
 
-https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-multi-instances
+![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/topology.png "")
+![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/after-failover.png "")
+![alt text](https://docs.microsoft.com/en-us/azure/azure-signalr/media/signalr-concept-disaster-recovery/after-recover.png "")
+
+* https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-multi-instances
+* https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery
